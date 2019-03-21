@@ -1,0 +1,2 @@
+_also_see	_hyponym
+_member_of_domain_region	_has_part
