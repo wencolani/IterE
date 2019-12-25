@@ -10,7 +10,9 @@ python3 main.py --device /gpu --datadir ./datasets/FB15k-237-sparse --batch_size
 
 ## DATASET
 
-There are four sparse datasets used in this paper, WN18-sparse, FB15k-sparse WN18-sparse and FB15k-237-sparse, which are in folder ./data. We also provide the axiom pool for each dataset together with their entailments.
+There are four sparse datasets used in this paper, WN18-sparse, FB15k-sparse WN18-sparse and FB15k-237-sparse, which are in folder ./data. We provide the axiom pool version for each dataset together with their entailments.
+
+We also provide the code for generating axiom pools, please refer to axiomPools.py if you are interested in axiom pool genration or apply them to other datasets.
 
 ## CITE
 
