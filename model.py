@@ -99,7 +99,7 @@ class IterE():
 
 			self.inferenceChain3_probability = self.sim(
 				head=[self.inferencechain_embed[:, 1, :], self.inferencechain_embed[:, 2, :]],
-				tail=self.inferencechain_embed[:, 2, :], arity=2)
+				tail=self.inferencechain_embed[:, 0, :], arity=2)
 
 			self.inferenceChain4_probability = self.sim(
 				head=[self.inferencechain_embed[:, 0, :], self.inferencechain_embed[:, 2, :]],
