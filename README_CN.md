@@ -1,17 +1,12 @@
-[**中文**](https://github.com/zjunlp/OntoED/blob/master/README_CN.md) | [**English**](https://github.com/zjunlp/OntoED/)
+[**中文**](https://github.com/wencolani/IterE/blob/master/README_CN.md) | [**English**](https://github.com/wencolani/IterE)
 
 <p align="center">
-  	<font size=6><strong>IterE:可以交替进行规则和嵌入表示学习的知识图谱推理方法。</strong></font>
+    <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
 </p>
 
-
-这是针对我们论文 **[Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning](https://dl.acm.org/doi/10.1145/3308558.3313612)**的官方简介，目前论文已被 **WWW 2019** 主会录用。
-
-```
-Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen. Iteratively learning embeddings and rules for knowledge graph reasoning. (CCF A). 
-```
-
-
+<p align="center">
+  	<strong>IterE:可以交替进行规则和嵌入表示学习的知识图谱推理方法。</strong>
+</p>
 
 # 论文简介
 
