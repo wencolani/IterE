@@ -12,13 +12,6 @@
 
 This repository is the official introduction of **[Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning](https://dl.acm.org/doi/10.1145/3308558.3313612)** . This paper has been accepted by **WWW 2019** main conference. 
 
-```
-Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen. Iteratively learning embeddings and rules for knowledge graph reasoning. (CCF A). 
-```
-
-# Author
-
-Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen.
 
 # Brief Introduction
 
