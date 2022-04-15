@@ -1,18 +1,10 @@
-
-<p align="center">
-    <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
-</p>
-
-<p align="center">
-  	<strong>IterE: a knowledge graph reasoning method iteratively learning rules and embeddings.</strong>
-    </font>
-</p>
-
+# IterE 
+IterE: a knowledge graph reasoning method iteratively learning rules and embeddings.</strong>
 
 This repository is the official introduction of **[Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning](https://dl.acm.org/doi/10.1145/3308558.3313612)** . This paper has been accepted by **WWW 2019** main conference. 
 
 
-# Brief Introduction
+## Brief Introduction
 
 
 ### Abstract
@@ -66,7 +58,7 @@ To train and evaluate the model(s) in the paper, run this command:
 python3 main.py --device /gpu --datadir ./datasets/FB15k-237-sparse --batch_size 2048 --dim 200 --test_batch_size 50 --max_epoch 100 --test_per_iter 100 --num_test 3000 --axiom_weight 0.1 --optimize Adam --lr 0.001 --neg_samples 2 --regularizer_weight 0.00001 --save_dir ./save/0825AE1 --update_axiom_per 1 --axiom_probability 0.95 --triple_generator 3
 ```
 
-# How to Cite
+## How to Cite
 
 If you use or extend our work, please cite the following paper:
 
