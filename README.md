@@ -1,4 +1,3 @@
-[**中文**](https://github.com/wencolani/IterE/blob/master/README_CN.md) | [**English**](https://github.com/wencolani/IterE)
 
 <p align="center">
     <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
